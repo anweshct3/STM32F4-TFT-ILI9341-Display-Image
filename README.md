@@ -9,3 +9,6 @@ Description, images, pin-mappings, scripts, To-Do list etc to be updated.
 
 ![stm32f4-tft2](https://user-images.githubusercontent.com/7463848/86556323-4213b500-bf53-11ea-8f32-7c95a7204863.jpg)
 
+![output](https://user-images.githubusercontent.com/7463848/88504308-a535bc00-cfd4-11ea-8d88-3fa69427adc9.gif)
+
+
